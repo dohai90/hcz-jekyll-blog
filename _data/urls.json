@@ -30,5 +30,10 @@
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
+  },
+  {
+    "text": "Contact",
+    "url": "/#",
+    "icon": "fas fa-address-book"    
   }
 ]
